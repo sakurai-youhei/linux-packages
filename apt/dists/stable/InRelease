@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 Codename: stable
 Date: Sun, 12 Apr 2026 18:01:21 +0000
 Label: qrrun
@@ -27,3 +30,10 @@ SHA512:
  de3d4b42379abf1b66eabe264e151d0ff3aa946033cf04c0856ec4f8475b98f2d0f2ebab57fa33cf6790c836ddca96ca6c4b19e692b7f17397f72711e4775724              309 main/binary-amd64/Packages.gz
  39bd314e2896d79f46f1216c5c52b284b7fc95a4bac746b4b9e3e85214e6e7d0adfae8b1a43a65270e3db7502b63d5f217ee8597691fd6df2e311282662fe3a3              389 main/binary-arm64/Packages
  11af4eddd2605ca310bace59e98ddaadac0883bb1c16b406243bdd26dc4446d9c9b874e18dcce464a28b57805e44707d433ff2ccd20c69eba626fa8d8871ecca              307 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQkSv7DWcaLguaK2LH+Ks2hfGfOwAUCadvd8QAKCRD+Ks2hfGfO
+wB5wAP9qZsJhNKFX4r+3vAdXooWnE8+T92+M8U9VO0j5oaSsZAEAr9vdb8rGpKEF
+h0j+Kr+djzMfSBFEKjzeF4Kwr7r20wo=
+=VKlf
+-----END PGP SIGNATURE-----
