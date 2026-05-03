@@ -1,13 +1,15 @@
 Package: qrrun
-Version: 0.1.3
+Version: 2.0.0
 Architecture: amd64
-Maintainer: qrrun maintainers
-Filename: pool/main/q/qrrun/qrrun_0.1.3_amd64.deb
-Size: 3030702
-MD5sum: a391e9112923207b81a98cf72dcebff0
-SHA1: 9d10fe2bb7d9e0c6d1da19977b725cb940d153a0
-SHA256: 7dcde2231576f7c46db496250fefaeac1808bcef4fc93050b9eb45125ebd3f63
+Maintainer: Youhei Sakurai
+Filename: pool/main/q/qrrun/qrrun_2.0.0_amd64.deb
+Size: 3032430
+MD5sum: 97d10d12570d99b326a2ca76a74fd797
+SHA1: 4b6395b952640c090638625171b43ae25d996988
+SHA256: b74ec3a6277b1b11e05926ca426b2a222a4c3d63d8caf06138c4ab6724a36b0e
 Section: utils
 Priority: optional
-Description: Tunnel local code and run it via QR
+Homepage: https://github.com/sakurai-youhei/qrrun
+Description: Prototype locally, run on your phone via a QR and a quick tunnel
+ qrrun tunnels local scripts and lets mobile runtimes execute them by scanning a QR code.
 
